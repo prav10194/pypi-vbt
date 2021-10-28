@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.5'
+VERSION = '0.0.1'
 DESCRIPTION = 'Create yaml file for your vbt components'
 LONG_DESCRIPTION = 'Create yaml file for your vbt components'
 
@@ -8,8 +8,8 @@ LONG_DESCRIPTION = 'Create yaml file for your vbt components'
 setup(
         name="vbt_yaml", 
         version=VERSION,
-        author="Pranav Bhatia",
-        author_email="<prav10194@gmail.com>",
+        author="<YOUR_NAME>",
+        author_email="<PYPI_EMAIL_ID",
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
         packages=find_packages(),
